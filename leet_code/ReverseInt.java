@@ -1,4 +1,4 @@
-package sliding_window.leet_code;
+package leet_code;
 
 class ReverseInt {
     public static int reverse(int x) {

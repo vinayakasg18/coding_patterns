@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "bitcoinapi",
+			"path": "../../../../IU/crypto-exchange/bitcoinapi"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"PIMCO",
+			"Databricks",
+			"."
+		]
+	}
+}

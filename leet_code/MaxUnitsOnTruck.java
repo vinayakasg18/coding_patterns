@@ -12,12 +12,12 @@ public class MaxUnitsOnTruck {
             @Override
             public int compare(int[] val1, int[] val2){
                 // Sort descending order by column 2
-                // When OBJ1 has to come before OBJ1
-                if (val1[col - 1] > val2[col -1]){
+                // When OBJ1 has to come before OBJ2
+                if (val1[col - 1] > val2[col - 1]){
                     return -1;
                 }
                 else{
-                    // When OBJ1 has to come after OBJ1
+                    // When OBJ1 has to come after OBJ2
                     return 1;
                 }
             }
